@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "FanHypnose Backend",
+    "description": "",
+    "version": "ces7d6dk",
+    "id": "cl1hlwupq113318401s680d5ha7y",
+    "url": "https://app.amplication.com/cl1hlwupq113318401s680d5ha7y",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1hlwupq113318401s680d5ha7y",
+      "authProvider": "Jwt"
+    }
+  }
+}
